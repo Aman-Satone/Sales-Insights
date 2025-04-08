@@ -97,7 +97,7 @@ The company operates in diverse markets across India and sells via multiple chan
 ### 🔑 Insights
 - Regional imbalance: 85%+ of sales from North & Central
 - Decline in 2020 needs root cause analysis (pandemic impact, supply issues?)
-- Only 23.67% of sales come from e-commerce despite market trends
+- Only 23.67% of sales come from e-commerce despite market trends.
 
 ### 📌 Recommendations
 - Launch marketing campaigns in **South India**
